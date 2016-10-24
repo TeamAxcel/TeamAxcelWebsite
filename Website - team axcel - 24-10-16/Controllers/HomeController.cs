@@ -13,5 +13,20 @@ namespace Website___team_axcel___24_10_16.Controllers
         {
             return View();
         }
+
+        public ActionResult Purpose()
+        {
+            return View();
+        }
+
+        public ActionResult Members()
+        {
+            return View();
+        }
+
+        public ActionResult Organations()
+        {
+            return View();
+        }
     }
 }
